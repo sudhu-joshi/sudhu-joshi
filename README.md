@@ -1,13 +1,18 @@
 ## Hello.
 
 I study ECE and am interested in 3D, and use the following languages/software quite frequently.
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/blender.svg" alt="Blender" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mathworks.svg" alt="MATLAB" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
-  <img src="https://img.icons8.com/external-filled-outline-icons-maxicons/48/000000/external-chip-hardware-filled-outline-filled-outline-icons-maxicons-2.png" alt="VLSI Magic" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
-</p>
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="cplusplus badge" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="python badge" />
+    <img src="https://img.shields.io/badge/Blender-Orange?logo=blender&logoColor=white&style=for-the-badge" alt="Blender" />
+    <img src="https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white" alt="matlab badge" />
+    <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="arduino badge" />
+    <img src="https://img.shields.io/badge/-MAGIC-orange" alt="magic badge" />
+    <img src="https://img.shields.io/badge/-NGSPICE-blue" alt="ngspice badge" />
+    <img src="https://img.shields.io/badge/-Verilog-red" alt="verilog badge" />
+</div>
+
 
 *RIP SudhuJ (2020-2025), lost to hack.*
 
