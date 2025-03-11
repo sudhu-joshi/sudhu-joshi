@@ -1,16 +1,13 @@
 ## Hello.
 
-I study ECE and am interested in 3D.
-
-I use the following languages/software quite frequently.
+I study ECE and am interested in 3D, and use the following languages/software quite frequently.
 <p align="left">
-  <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="32" height="32" />
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="32" height="32" />
-  <img src="https://simpleicons.org/icons/blender.svg" alt="Blender" width="32" height="32" />
-  <img src="https://simpleicons.org/icons/matlab.svg" alt="MATLAB" width="32" height="32" />
-  <img src="https://img.icons8.com/color/48/000000/chip.png" alt="VLSI Magic" width="32" height="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/blender.svg" alt="Blender" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mathworks.svg" alt="MATLAB" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
+  <img src="https://img.icons8.com/external-filled-outline-icons-maxicons/48/000000/external-chip-hardware-filled-outline-filled-outline-icons-maxicons-2.png" alt="VLSI Magic" width="32" height="32" style="vertical-align:middle; margin:2px;"/>
 </p>
-
 
 *RIP SudhuJ (2020-2025), lost to hack.*
 
