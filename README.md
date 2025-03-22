@@ -1,7 +1,6 @@
 ## Hello.
 
 I study ECE and am interested in 3D, and use the following languages/software quite frequently.
-
 <div align="left">
     <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="cplusplus badge" />
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="python badge" />
@@ -12,14 +11,13 @@ I study ECE and am interested in 3D, and use the following languages/software qu
 </div>
 
 
+
 *RIP SudhuJ (2020-2025), lost to hack.*
 
 
 <!--
 **sudhu-joshi/sudhu-joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
